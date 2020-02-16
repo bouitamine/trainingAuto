@@ -1,11 +1,11 @@
-package test;
-
-import org.junit.runner.RunWith;
-import org.junit.runners.Suite;
-import org.junit.runners.Suite.SuiteClasses;
-
-@RunWith(Suite.class)
-@SuiteClasses({ appTest.class, googleTest.class, ResGenTest.class })
-public class AllTests {
-
-}
+//package test;
+//
+//import org.junit.runner.RunWith;
+//import org.junit.runners.Suite;
+//import org.junit.runners.Suite.SuiteClasses;
+//
+//@RunWith(Suite.class)
+//@SuiteClasses({ appTest.class, googleTest.class, ResGenTest.class })
+//public class AllTests {
+//
+//}
